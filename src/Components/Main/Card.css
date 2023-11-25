@@ -1,0 +1,28 @@
+.CardBody{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.Card{
+    padding: 2rem;
+    width: 10rem;
+    border-radius: 10px;
+    margin: 2rem;
+    background-color: #ffff;
+    box-shadow: 0 2px 100px #ccc;
+}
+
+.Card p{
+    word-wrap: break-word;
+    white-space: pre-wrap;
+}
+
+.card-btn{
+    border: none;
+    background-color: #ffff;
+    color: #cccc00;
+    margin: 1.2rem 0 0 9rem;
+    font-size: 1rem;
+    cursor: pointer;
+}

@@ -1,0 +1,35 @@
+.form{
+    background-color: #fff;
+    box-shadow: 0 3px 10px #ccc;
+    margin: 2rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    border: none;
+    margin: 1.5rem;
+    padding: 1rem;
+    font-size: 2rem;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.content{
+    border: none;
+    margin: 1.5rem;
+    padding: 1rem;
+    font-size: 2rem;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.btn{
+    width: 5rem;
+    height: 3rem;
+    border-radius: 10px;
+    margin: 4rem;
+    cursor: pointer;
+    /* background-color: rgb(93, 164, 151); */
+}

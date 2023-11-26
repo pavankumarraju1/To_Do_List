@@ -1,8 +1,8 @@
-.CardBody{
+/* .CardBody{
     display: flex;
     flex-wrap: wrap;
 
-}
+} */
 
 .Card{
     padding: 2rem;
@@ -11,6 +11,7 @@
     margin: 2rem;
     background-color: #ffff;
     box-shadow: 0 2px 100px #ccc;
+
 }
 
 .Card p{

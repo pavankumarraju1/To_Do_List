@@ -52,7 +52,7 @@ const Form = (props) => {
     }
 
     return (
-        <div>
+        <div className="formDiv">
             <form className="form" onSubmit={submitHandler}>
                 <input name="title" placeholder="title here" className="title" value={data.title} onChange={changeHandler} required/>
                 <textarea name="content" placeholder="content here" className="content" value={data.content} onChange={changeHandler} required/>
